@@ -241,7 +241,6 @@ Darei um exemplo. Em 2017, a TalkTalk foi multada pela comissão de informação
 
 Quanto ao processamento, dois grupos de organizações são cobertos pelo GDPR, controladores de dados e processadores de dados. 
 
-
 **1. Controlador de dados**: Autoridade que, sozinha ou em conjunto, determina os fins e os meios de processamnto de dados pessoais.
 
 Os controladores são responsáveis por controlar os dados pessoais. São os proprietários dos dados e responsáveis finais por sua segurança. São responsáveis, por exemplo, por garantir a;
@@ -260,7 +259,6 @@ Os processadores de dados são contratados pelos controladores para obter, anali
 .**Implantar medidas de segurança**:
 
 Os processadores de dados devem agir exatamente como instruídos pelos controladores, além de proteger os dados. Os processadores precisam obter permissão por escrito para utilizar subcontratados no processamento de dados. Os processadores também devem contribuir com toda auditoria de conformidade. O controlador é o proprietário dos dados, e o processador deve seguir suas instruções. O controlador de dados é responsável perante os cidadãos da UE, enquanto o processador de dados responde ao controlador. O controlador de dados deve ter medidas e processos técnicos, mas o processador de dados deve se comprometer com essas medidas de segurança para proteger os dados. Controladores e processadores devem se comprometer por contrato com as medidas e entendimentos de segurança. Haverá penalidades por contratos quebrados. Por fim, os controladores têm o direito de inspecionar as instalações dos processadores de dados. Darei um exemplo usando a organização fictícia Explore a Califórnia. Se a Explore a Califórnia mantiver dados pessoais dos funcionários como parte do contrato de trabalho, será a controladora de dados. Se ela usar um provedor de software de RH para processar 
-
 
 
 **2. Diretor de proteção de dados**
