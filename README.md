@@ -1,0 +1,1 @@
+# GDPR-Regulamento-Geral-de-Prote-o-de-Dados-Formacao-Basica.md
