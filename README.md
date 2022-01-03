@@ -1,7 +1,5 @@
 # GDPR-Regulamento-Geral-de-Prote-o-de-Dados-Formacao-Basica.md
 
-# GDPR-Regulamento-Geral-de-Prote-o-de-Dados-Formacao-Basica.md
-
 **1. Bem-vindos**
 
 Quando você selecionar uma linha na transcrição, será direcionado à seção equivalente no vídeo
@@ -246,8 +244,11 @@ Quanto ao processamento, dois grupos de organizações são cobertos pelo GDPR, 
 Os controladores são responsáveis por controlar os dados pessoais. São os proprietários dos dados e responsáveis finais por sua segurança. São responsáveis, por exemplo, por garantir a;
 
 **Tarefas**
+
 .**conformidade**: e fazem isso processando os dados pessoais da forma correta. 
+
 .**Informar(detalhes dos dados)**: Essas organizações devem obter os dados da forma correta e mantê-los apenas para os fins declarados. 
+
 .**Implantar medidas técnicas**: Os controladores devem manter os dados seguros e gerenciar os processadores que os utilizem. 
 
 **2. Processador de dados**: Autoridade que processa dados pessoais em nome do controlador.
@@ -255,10 +256,143 @@ Os controladores são responsáveis por controlar os dados pessoais. São os pro
 Os processadores de dados são contratados pelos controladores para obter, analisar e armazenar os dados em nome do controlador. São fornecedores, como em um serviço contratado ou software adquirido. 
 
 **Tarefas**
-.**Registras operações de processamento
-.**Implantar medidas de segurança**:
+.*Registras operações de processamento
+.*Implantar medidas de segurança
+.*Informar quaiquer violaçoes de dados
+.*Nomear um diretor de proteção de dados (DPO), se necessário.
 
-Os processadores de dados devem agir exatamente como instruídos pelos controladores, além de proteger os dados. Os processadores precisam obter permissão por escrito para utilizar subcontratados no processamento de dados. Os processadores também devem contribuir com toda auditoria de conformidade. O controlador é o proprietário dos dados, e o processador deve seguir suas instruções. O controlador de dados é responsável perante os cidadãos da UE, enquanto o processador de dados responde ao controlador. O controlador de dados deve ter medidas e processos técnicos, mas o processador de dados deve se comprometer com essas medidas de segurança para proteger os dados. Controladores e processadores devem se comprometer por contrato com as medidas e entendimentos de segurança. Haverá penalidades por contratos quebrados. Por fim, os controladores têm o direito de inspecionar as instalações dos processadores de dados. Darei um exemplo usando a organização fictícia Explore a Califórnia. Se a Explore a Califórnia mantiver dados pessoais dos funcionários como parte do contrato de trabalho, será a controladora de dados. Se ela usar um provedor de software de RH para processar 
+Os processadores de dados devem agir exatamente como instruídos pelos controladores, além de proteger os dados. Os processadores precisam obter permissão por escrito para utilizar subcontratados no processamento de dados. Os processadores também devem contribuir com toda auditoria de conformidade. 
+
+**Controlador de Dados**
+.è o proprietário dos dados
+.Resposnável peranto os cidadãos
+.Medidas técnicas e processos
+.
+
+**Processador de dados**
+.Deve seguir as instruções do controlador
+.Responsável perando o controlador
+.Medidas de segurança
+
+O controlador é o proprietário dos dados, e o processador deve seguir suas instruções. O controlador de dados é responsável perante os cidadãos da UE, enquanto o processador de dados responde ao controlador. O controlador de dados deve ter medidas e processos técnicos, mas o processador de dados deve se comprometer com essas medidas de segurança para proteger os dados. **Controladores e processadores devem se comprometer por contrato com as medidas e entendimentos de segurança**. Haverá penalidades por contratos quebrados. Por fim, os controladores têm o direito de inspecionar as instalações dos processadores de dados. 
+
+
+**Exemplo: Explore a Califórnia**
+.Os funcionários compartilham seus dados pessoais com a Explore a Califórnia  
+    Controlador de dados: Explore a Califórnia
+    
+.O provedor de software de RH processa e armazena os dados.
+    Processador de dados: Provedor do Software de RH
+
+Darei um exemplo usando a organização fictícia Explore a Califórnia. Se a Explore a Califórnia mantiver dados pessoais dos funcionários como parte do contrato de trabalho, será a controladora de dados. Se ela usar um provedor de software de RH para processar e armazenar dados pessoais, o provedor será o processador de dados. Ao descrever as respectivas regras e responsabilidades, o contrato deixaria claro por quais dados a Explore a Califórnia é responsável e o que o provedor pode fazer ao processar os dados. 
+
+**Controladores de dados e processadores de dados
+
+Saber se a organização é controladora ou processadora, ou ambas, ajuda a entender suas responsabilidades quanto aos dados.
+
+2.**Diretor de proteção de dados**
+
+**Diretor de proteção de dados(DPO)**
+.Lidera a segurança corporativa
+.Supervisiona a estratégia de proteção de dados.
+
+O papel do diretor de proteção de dados, ou DPO, é essencial para que a organização se mantenha em conformidade com o GDPR. Entender seu papel ajuda a identificar a pessoa certa para a função. Quem precisa de um diretor de proteção de dados? 
+
+**O GDPR determina a nomeação de um DPO**: para controladores e processadores envolvidos em atividades de processamento de alto risco.
+
+O regulamento estabelece que todo controlador ou processador que requeira monitoramento regular e sistemático de titulares de dados em grande escala precisa de um DPO. 
+
+**Diretor de proteção de dados(DPO)**
+.O DPO pode ter outras responsabilidades no trabalho.
+
+O papel de DPO nem sempre é exclusivo, ou seja, pode não ser o único trabalho da pessoa. Isso depende do tamanho da organização. O diretor de proteção de dados deve se reportar ao gestor de nível mais alto da organização. 
+
+**Nomeação do DPO**
+.Baseada no conhecimento profissional de proteção de dados
+.Deve ser capaz de cumprir suas obrigações de forma independente
+
+Ao nomear um DPO, é preciso analisar seu conhecimento sobre proteção de dados, mas sua capacidade de cumprir deveres é ainda mais importante. O DPO pode ser funcionário ou contratado, mas não pode ser temporário. Também é recomendável que ele tenha uma boa compreensão da organização. 
+
+**A independência garante**
+.Não haver instruções
+.Nenhum conflito de interesses
+.Pessoal para apoiar as tarefas
+.Autoridade para investigar 
+.Mandato mínimo
+
+As regras GDPR garantem a independência do DPO, e ele não pode ser influenciado por interesses comerciais. O diretor de proteção de dados pode solicitar apoio para garantir o cumprimento de suas obrigações. Para evitar conflitos de interesses, o DPO não pode ser o controlador. Seu mandato é de dois anos e pode ser renovado por até dez anos. O mandato médio é de dois a cinco anos. Note que o DPO não pode ser demitido, a menos que não cumpra suas obrigações e haja o aval do regulador. 
+
+**Deveres do DPO**
+.Informar
+.Aconselhar
+.Registrar operações
+.Conformidade
+.Lidar com reclamações
+.Cooperar com a UE e outros oórgãos gvernamentais
+
+Abordarei as seis principais responsabilidades do diretor de proteção de dados. Primeira, deve informar os titulares de dados de seus direitos e conscientizá-los sobre o GDPR. Também deve aconselhar sua instituição sobre a aplicação das regras GDPR. Em terceiro lugar, deve avaliar os riscos preventivamente e ter uma lista das operações que a organização realizará. Depois, deve ajudar a instituição a prestar contas ao órgão governamental. O DPO também deve esclarecer as dúvidas e reclamações. Por fim, no caso de investigação, deve ajudar sua organização a cooperar com o órgão governamental. Como vimos, o papel de diretor de proteção de dados é essencial para a organização se manter em conformidade com o GDPR.
+
+#3. Componentes técnicos
+
+1. **Artigo 24**: Responsabilidade do controlador 
+
+O GDPR tem 99 artigos. O artigo 24 descreve as tarefas sob responsabilidade do controlador. Existem quatro responsabilidades principais. 
+
+**1. Implantar medida técnincas e organizacionais.**
+.Demonstrar que o procesamento é feito corretamente.
+
+A primeira, é adotar medidas apropriadas. São medidas técnicas e processos. Documentar esses processos e medidas demonstra a diligência da organização. Procure mostrar essas medidas como evidências nos mecanismos de auditoria. 
+
+**2. Considerar a natureza, escopo, contecto e finalidade.**
+.Levar em conta a probabilidade e o impacto dos riscos para direitos das pessoas físicas.
+
+A próxima, é entender os dados processados. Mapear os dados facilita isso. Entenda os dados que a organização possui e por que possui. Além disso, qual a probabilidade e o impacto de perder esses dados. Isso permite identificar as medidas apropriadas com base na criticidade dos dados. 
+
+**.3 Implantar política de proteção de dados.**
+.A política deve ser proporcional à atividade de processamento.
+
+A terceira, é proteger os dados. Essa tarefa se baseia na natureza dos dados ou em sua criticidade. A organização deve ter uma política divulgada, facilmente acessível.
+
+**.4. Desenvolver e aprovar um código de conduta.**
+.Demonstrar a confromidade com as obrigações.
+
+Por fim, a quarta responsabilidade é ter um código de conduta. Esta também deve ser uma política escrita e aderente ao **artigo 40** do GDPR ou a uma certificação aprovada. 
+
+
+**Exemplos de cláusulas do artigo 40**
+.Processamento correto e transparente
+.Interesse legitimo
+.Consideração pelos direitos
+
+O artigo 40 apresenta 11 códigos de conduta. Algumas cláusulas-chave do artigo 40 se referem ao processamento, interesse legítimo nos dados e atenção aos direitos dos titulares de dados. Essas são as quatro responsabilidades principais do controlador de dados.
+
+
+2. **Artigo 28**
+3. .Processador de dados
+
+O GDPR tem 99 artigos. O artigo 28 descreve as tarefas sob responsabilidade do processador de dados. Existem quatro responsabilidades principais. 
+
+**1. Implantar medidas de segurança.**
+.Fornecer garantias suficientes de medidas técnicas e organiacionais.
+
+A primeira, é implantar medidas de segurança. Como isso será feito dependerá da natureza dos dados e de como serão tratados. Podem ser medidas técnicas ou baseadas em processos. 
+
+**.2 Uso de subprocessadores**
+. Só pode ser feito com o consentimento prévio do controlador.
+
+Em seguida, vem a utilização de subprocessadores. Isso ocorre quando o processador terceiriza parte ou todo o processamento de dados. O subprocessador está sujeito às mesmas obrigações de proteção de dados do contrato do processador com o controlador. É obrigatório o consentimento explícito do controlado, para que seja legal. Além disso, deve ser feito um contrato para subprocessadores com as cláusulas aplicáveis. 
+
+
+**3. Contrato com o controlador**
+.Objeto
+.Tipo de dado
+.Natureza e finalidades
+.Obrigações das partes
+
+A terceira responsabilidade do processador é garantir que haja um contrato com o controlador. Exemplos de informações a incluir no contrato são: os dados de quem serão processados, categorias de titulares de dados, quais dados, o que são e como serão usados. O contrato também deve destacar as responsabilidades do controlador e do processador. Cláusula modelo é um contrato entre duas organizações que descreve os papéis e responsabilidades de cada uma. Nos contratos de cláusula modelo há adendos que descrevem as responsabilidades e são utilizados para as medidas. Pode-se localizar exemplos de cláusulas modelos on-line buscando por “modelos”. Por fim, o processador deve garantir que sejam processados somente os dados do escopo. Deve ter registros da atividade de processamento e logs para revisão, que podem ser usados como evidências em auditorias. Se houver violação de alguma dessas responsabilidades, também podem ser considerados responsáveis o processador e o controlador de dados. Essas são as quatro responsabilidades principais do processador de dados.
+
+
+
 
 
 **2. Diretor de proteção de dados**
