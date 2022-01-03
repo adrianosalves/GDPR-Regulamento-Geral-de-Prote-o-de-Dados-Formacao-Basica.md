@@ -382,17 +382,149 @@ A primeira, é implantar medidas de segurança. Como isso será feito dependerá
 
 Em seguida, vem a utilização de subprocessadores. Isso ocorre quando o processador terceiriza parte ou todo o processamento de dados. O subprocessador está sujeito às mesmas obrigações de proteção de dados do contrato do processador com o controlador. É obrigatório o consentimento explícito do controlado, para que seja legal. Além disso, deve ser feito um contrato para subprocessadores com as cláusulas aplicáveis. 
 
-
 **3. Contrato com o controlador**
+
+A terceira responsabilidade do processador é garantir que haja um contrato com o controlador. Exemplos de informações a incluir no contrato são: 
+
 .Objeto
 .Tipo de dado
 .Natureza e finalidades
 .Obrigações das partes
 
-A terceira responsabilidade do processador é garantir que haja um contrato com o controlador. Exemplos de informações a incluir no contrato são: os dados de quem serão processados, categorias de titulares de dados, quais dados, o que são e como serão usados. O contrato também deve destacar as responsabilidades do controlador e do processador. Cláusula modelo é um contrato entre duas organizações que descreve os papéis e responsabilidades de cada uma. Nos contratos de cláusula modelo há adendos que descrevem as responsabilidades e são utilizados para as medidas. Pode-se localizar exemplos de cláusulas modelos on-line buscando por “modelos”. Por fim, o processador deve garantir que sejam processados somente os dados do escopo. Deve ter registros da atividade de processamento e logs para revisão, que podem ser usados como evidências em auditorias. Se houver violação de alguma dessas responsabilidades, também podem ser considerados responsáveis o processador e o controlador de dados. Essas são as quatro responsabilidades principais do processador de dados.
+os dados de quem serão processados, categorias de titulares de dados, quais dados, o que são e como serão usados. O contrato também deve destacar as responsabilidades do controlador e do processador. 
+
+**Cláusulas modelos**
+.Contratos com adendos técnicos.
+
+Cláusula modelo é um contrato entre duas organizações que descreve os papéis e responsabilidades de cada uma. Nos contratos de cláusula modelo há adendos que descrevem as responsabilidades e são utilizados para as medidas. Pode-se localizar exemplos de cláusulas modelos on-line buscando por “modelos”. 
+
+**.4. Processar apenas os dados do escopo**
+.O processador é considerado co-responsável com o controlador em casos de violação.
+
+Por fim, o processador deve garantir que sejam processados somente os dados do escopo. Deve ter registros da atividade de processamento e logs para revisão, que podem ser usados como evidências em auditorias. Se houver violação de alguma dessas responsabilidades, também podem ser considerados responsáveis o processador e o controlador de dados. Essas são as quatro responsabilidades principais do processador de dados.
+
+# 4.Requisitos
+
+1. **Base jurídica**
+
+"As organizações devem identificar a necessidade de **coletar** e **processar dados**, para determinar a **base legal**.
+
+Entender as bases da organização para reunir e processar dados ajuda a verificar se ela opera legalmente. Começarei definindo base como o apoio ou fundação subjacente de algo. 
+
+**Base**
+.O apoio mínimo e **fundamental** de algo ou **sistema**.
+
+Imagine uma casa. Feita a fundação, você constrói sobre ela. Como isso se aplica ao GDPR? 
+
+**Base legal**
+.Uma razão justificada por lei para o processamento.
+.A base é governada por disposições regulamentares.
+
+...é uma razão justificada por lei para processar dados. Não é a lei em si, mas é justificada por ela. Uma casa precisa de fundação antes das paredes e, finalmente, de inspeção. Com o GDPR ocorre o mesmo. É a fundação ou razão pela qual os dados são usados. E como a inspeção, há leis que garantem o atendimento a padrões mínimos. 
+
+**A base do GDPR para o processamento de dados**
+1.Consentimento
+2.Necessidade contratual
+3.Conformidade com as obrigações legais.
+4.Proteger interesses vitais.
+5.Interesse legítimo
+6.Interesso público
+
+Existem seis bases para processar dados no GDPR. Abordarei cada uma. A primeira, é o **(1)consentimento**, algo voluntário e que pode ser revogado a qualquer momento pelo titular de dados. Em seguida, vem a **(2)necessidade contratual**. A organização executa o processamento para cumprir uma obrigação contratual. Em terceiro lugar, estão as **(3)obrigações legais** no âmbito da legislação da UE. Note que isso é específico dos Estados-Membros da UE. A próxima base, é **(3)proteger interesses vitais**. Veja isso como um psiquiatra. Seus dados são privados, a menos que prejudique a si mesmo ou a outros. O **(5)interesse legítimo** é a próxima. Essa será uma razão convincente para organizações que trabalham com outras e precisam transferir dados entre si. Por fim, há o **(6)interesse público**. Algo que se sobrepõe às liberdades de um titular de dados, penso que seria como o CDC, centro de controle de doenças. Se houver uma pandemia e o CDC coletar dados sobre essa pandemia e para onde ela possa ir, as atividades de coleta de dados superam a liberdade dos titulares de dados pelo bem comum. Existem seis bases para processar dados. Conhecê-las garante que a organização opere legalmente.
+
+**2. Docuementação de atividades**
+.Mapeamento de dados
+
+O artigo 35 do GDPR requer que as organizações avaliem o impacto dos dados que processam. 
+
+**Alvaliação de impacto na privacidade**
+.Avaliação do impacto da operação de processamento na proteção de dedos.
+
+Para entender o impacto na privacidade é preciso conhecer a natureza dos dados e como são processados. A classificação de certos dados como sensíveis ou confidenciais ajuda a identificar dados que precisam de proteção adicional. Um modo de fazer isso é através de marcação.
+
+**Mapeamento de dados**
+
+ Para avaliar o impacto na privacidade é essencial mapear os dados. O mapeamento é realizado em três etapas.
+
+**1.Descoberta de dados**
+.Transferência de dados de um local para outro
+
+ Primeiro, faz-se a descoberta dos dados. A organização precisa entender onde os dados fluem. Isso pode ser feito de várias formas, como de dentro para fora da UE ou da organização para seus fornecedores. 
+ 
+ **2. Ciclo de vida na coleta de dados**
+ .Os dados são necessários?
+ 
+ Em seguida, analisa-se o uso dos dados durante o ciclo de vida e suas implicações práticas. As análises verificam se ocorre algum uso imprevisto ou não intencional dos dados. Outra análise, é se os dados poderiam ser usados fora de sua finalidade original no futuro. Se alguma das análises for positiva, a organização verifica se deve ou não coletar os dados. 
+ 
+ **3. Mapeamento de dados**
+ .Verifique os elementos principais para determinar as salvaguardas aplicáveis.
+ 
+  Na última etapa, mapeia-se o fluxo e a criticidade dos dados em relação às salvaguardas técnicas e organizacionais aplicáveis. Nesta etapa, criar mapas de calor para os dados processados ajuda. Saber quais dados são críticos ou confidenciais, e sensíveis, e quais podem ser públicos, ajuda a definir que proteções adotar. Há muitos elementos principais a se considerar ao mapear e gerar mapas de calor. 
+  
+**Elementos prinicipais**
+.Coleta
+.Armazenamento
+.Compartilhamento
+.Retenção
+.Localização
+.Responsabilização
+
+Várias dimensões estão envolvidas, como qual é a natureza e categoria dos dados **(coleta)**. Em quais formatos os dados são armazenados. Se são cópias impressas, digitais ou em banco de dados **(armazenamento)** . E qual é o método de transferência entre organizações. Também é preciso analisar as partes internas e externas da organização **(compartilhamento)**. Por quanto tempo os dados são mantidos? **(Retenção)** Onde são armazenados? **(Localização)** Por fim, identifique o responsável final pela proteção dos dados **(Resposabilização)**. 
+
+Saber quais dados a organização processa e o ciclo de vida deles é essencial para cumprir a avaliação de impacto na privacidade de dados requerida pelo GDPR.
+
+3. **Medidas técnicas**
+.Artigo 32
+
+Quando você selecionar uma linha na transcrição, será direcionado à seção equivalente no vídeo
+Ao compreender seus dados, a organização deve demonstrar diligência para protegê-los. As medidas para isso são citadas no artigo 32 do GDPR. 
+
+1.**Anonimizar e criptografar os dados**
+.Devem estar ilegíveis se forem vazados ou roubados
+
+Quatro elementos na implantação de controles técnicos garantem um nível de segurança adequado aos riscos. O primeiro se refere à **anonimização e criptografia**. Texto sem formatação não é bom, pois se for interceptado pode ser lido por qualquer um, inclusive os mal-intencionados. É preciso considerar dados em trânsito e dados em repouso. Para dados em trânsito, a *criptografia TLS* é uma boa opção técnica. Para dados em repouso, *criptografias com AES256* também são uma boa opção. 
+
+2.**Confidencialidade, Integridade e disponibilidade**
+.Resiliência de sistemas e serviços de processamento
+
+Em seguida, vem a confidencialidade, integridade e disponibilidade dos dados. Esses elementos são protegidos por vários controles. Consulte a página do Center for Internet Security Critical Security Controls (https://www.cisecurity.org/controls/) para conhecer esses controles, que são consistentes com outros modelos e se alinham à **ISO 27002, que é um padrão internacional**. Também aos regulamentos NIS dos EUA e aos quatro principais controles de segurança da Australian Security Directorate. 
+
+**Controles críticos de segurança**
+.Inventário
+.Configuração para proteção
+.Avaliação de vulnerabilidade
+.Prvilégio administrativos para controle
+.Malware
+.Controle de rede
+.Proteção de dados
+.Monitoramento
+.Qualificação
+
+Os 20 principais controles ajudam no âmbito do regulamento GDPR e também em medidas gerais de segurança da organização. Darei alguns exemplos: ter um **inventário de hardware e software**, fazer **avaliações de vulnerabilidade nesses ativos**, garantir o **controle de privilégios administrativos** e treinar o pessoal para compreender os **controles de segurança**.
+
+3.**Capacidade de restauração**
+.Em caso de incidente físico ou técnico a disponibilidade e o acesso devem ser restaurados.
+
+A terceira medida técnica é a restauração de dados. A organização deve fazer backup das informações críticas e testar a restauração para garantir a integridade das cópias. Essa prática assegura a restituição dos dados em caso de perda.
+
+4.**Testes e avaliações regulares**
+.Garantir a segurança das medidas de processamento.
+
+Por fim, as medidas técnicas devem ser testadas quanto à efetividade. Bons exemplos são os **testes de invasão** e de **restauração de backup**. 
+
+**Medidas técnias**
+
+A organização deve realizar testes internos e externos de suas medidas técnicas. O artigo 32 descreve os requisitos técnicos básicos para a proteção de dados. Eles não são simples, mas são medidas de segurança essenciais que toda organização deve se esforçar para ter.
 
 
 
 
 
-**2. Diretor de proteção de dados**
+
+
+
+
+
+
+
+
