@@ -965,6 +965,8 @@ Uma equipe forense sabe como responder a um incidente, começando com a preserva
 
 Sua participação e resultados evidenciam a diligência da organização afetada para a autoridade fiscalizadora. A resposta a incidentes e uma sólida investigação forense permitem que a organização identifique e mitigue as violações de dados pessoais.
 
+https://eugdpr.org
+
 
 
 
